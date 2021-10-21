@@ -1,0 +1,19 @@
+.is-scrollLocked {
+	overflow: hidden;
+}
+
+.is-momentumScrollable {
+	-webkit-overflow-scrolling: touch;
+}
+
+.mapboxgl-ctrl-logo {
+	display: none !important;
+}
+
+.mapboxgl-canvas {
+	border-radius: 25px;
+}
+
+.MuiSelect-select {
+	background-color: transparent !important;
+}

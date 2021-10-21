@@ -1,0 +1,15 @@
+{
+	"printWidth": 80,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"useTabs": true,
+	"arrowParens": "always",
+	"overrides": [
+		{
+			"files": "*.ts",
+			"options": {
+				"parser": "typescript"
+			}
+		}
+	]
+}
